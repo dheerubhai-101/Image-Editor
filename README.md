@@ -43,3 +43,5 @@ To rotate the image where direction = ‘clockwise’ or ‘anticlockwise
 * **rotate_at_angle(image, direction, angle)**: rotates the
 image at an angle in the given direction.
 ![image](https://user-images.githubusercontent.com/83055325/216031744-c65f47f0-2de3-46c9-9d76-26c27def7b7c.png)
+
+![image](https://user-images.githubusercontent.com/83055325/216032398-1eb2fa3d-1165-4d32-857a-a7c4530a30b3.png)
